@@ -148,3 +148,4 @@ for i in range(5):
 # 详见操作手册
 ```
 ##### （六）创建/查看/设置h5py文件实例
+* 详见[present_clothset.ipynb](https://github.com/ZWtu19/CSH_Work/blob/master/2.work2/present_clothset.ipynb)
